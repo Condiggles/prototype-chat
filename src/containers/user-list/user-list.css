@@ -5,4 +5,5 @@
   border-width: 1px;
   display: flex;
   flex-direction: column;
+  overflow-y: auto;
 }
