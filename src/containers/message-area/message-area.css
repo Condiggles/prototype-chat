@@ -1,0 +1,6 @@
+.chatContainer {
+  flex-grow: 1;
+  color: cyan;
+  border-style: solid;
+  border-width: 1px;
+}
